@@ -32,7 +32,7 @@ I think what most important thing in developement is understanding of task and t
 *skype: ilp416
 *viber/telegram: +375 29 792-32-(five)(five)
 
-# Рекоммендации
+# Recommendations
 * Arkadiy Meshkovskiy [avmeshkovskiy(at)gmail(dot)com] — project owner rentmania.com  
 * Slava Dmitriev [dmitrsl10(at)gmail(dot)com] — team leader
 * Aleksey Derushev [derushev.aleksei(at)gmail(dot)com] — front-end dev
