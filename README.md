@@ -6,7 +6,7 @@ I have experience in ERP system development, begin at full-stack PHP developer,
 then full-stack RoR + team lead(4 team members). I'm worked with administating UNIX systems, and data replication.
 
 I'm woking in startup [RENTMANIA](http://rentmania.com) last 1.5 years as back-end RoR developer. On vacation time I am worked in PM role.
-I have workes with external API, connected payments systems(Yandex.money, Payu, Stripe), creates RESTful APIs. 
+I have work with external API, connecting payments systems(Yandex.money, Payu, Stripe), creating RESTful APIs. 
 Our project is Service-Oriented App(SOA). Team works with Agile/Scrum approach.
 
 # Tech stack
@@ -28,9 +28,9 @@ Ilya L-P. 31 years old. Brest Belarus.
 I don't ready to relocation at nearest time.
 I like short business trips (about 1 week). I practice creative approach all the time in work and live.
 I think what most important thing in developement is understanding of task and thinking about decision: ideal case is solve the task without any line of code.
-*email: ilp416(at)gmail(dot)com
-*skype: ilp416
-*viber/telegram: +375 29 792-32-(five)(five)
+* email: ilp416(at)gmail(dot)com
+* skype: ilp416
+* viber/telegram: +375 29 792-32-(five)(five)
 
 # Recommendations
 * Arkadiy Meshkovskiy [avmeshkovskiy(at)gmail(dot)com] — project owner rentmania.com  
