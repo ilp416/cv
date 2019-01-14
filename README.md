@@ -3,20 +3,24 @@ EN | [RU](README_ru.md)
 # Experience
 RoR backend developer, in Rails — 5 years, in web-dev about 10 years. 
 I have experience in ERP system development, begin at full-stack PHP developer,
-then full-stack RoR + team lead(4 team members). I'm worked with administating UNIX systems, and data replication.
+then full-stack RoR + team lead(4 team members). I'm worked with administating UNIX systems, and data replication. I have expirience with external APIs(veriffme, OVH), payment services(Yandex.Money, Payu, Stripe), creating own RESTful APIs, working by service-oriented paradigm. I use Agile/Scrum. And I like SOLID.
 
-I'm woking in startup [RENTMANIA](http://rentmania.com) last 1.5 years as back-end RoR developer. On vacation time I am worked in PM role.
-I have work with external API, connecting payments systems(Yandex.money, Payu, Stripe), creating RESTful APIs. 
-Our project is Service-Oriented App(SOA). Team works with Agile/Scrum approach.
+# 2018-2019 [MotionTribe](https://motiontribe.io) Brussels (remote) BackEnd RoR
+
+# 2016-2018 [RENTMANIA](http://rentmania.com) Moscow (remote), BackEnd RoR developer. PM on vacation time.
+
+# 2015 Freelancer, RoR, PHP, PixelPerfect layout.
+
+# 2008-2015 "Vash Vybor plus", Brest FullStack PHP + sysadmin, than FullStack RoR, team-lead.
 
 # Tech stack
-* Rails 3, 4, 5
-* BDD(cucumber), TDD(rspec)
+* Rails 3, 4, 5/Grape/Trailblazer
+* BDD(cucumber), TDD(rspec), CI/CD
 * Postgres/MySQL/Redis
 * JS/JQuery/CoffeeScript
 * HTML/HTML_5/Haml/Slim
 * Sidekiq
-* Github/gitlab CI/CD
+* Github/gitlab
 * setup UNIX systems, nginx/apache, ssh, postgres, mysql
 
 # Aducation
@@ -33,6 +37,7 @@ I think what most important thing in developement is understanding of task and t
 * viber/telegram: +375 29 792-32-(five)(five)
 
 # Recommendations
+* Aurélien Troonbeeckx [aurelien(at)motiontribe(dot)io] — Motiontribe co-owner
 * Arkadiy Meshkovskiy [avmeshkovskiy(at)gmail(dot)com] — project owner rentmania.com  
 * Slava Dmitriev [dmitrsl10(at)gmail(dot)com] — team leader
 * Aleksey Derushev [derushev.aleksei(at)gmail(dot)com] — front-end dev
