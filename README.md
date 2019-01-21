@@ -28,7 +28,7 @@ Brest State Technical University, specialization Automatic Systems of Data Proce
 Successfully finish course "M101P: MongoDB for Developers" in the top 10%.
 
 # About
-Ilya L-P. 31 years old. Brest Belarus. 
+Ilya L-P. 32 years old. Brest Belarus. 
 I don't ready to relocation at nearest time.
 I like short business trips (about 1 week). I practice creative approach all the time in work and live.
 I think what most important thing in developement is understanding of task and thinking about decision: ideal case is solve the task without any line of code.
