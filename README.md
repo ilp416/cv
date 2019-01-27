@@ -1,17 +1,19 @@
 EN | [RU](README_ru.md)
 
+[CV](cv_en.md)
+
 # Experience
 RoR backend developer, in Rails — 5 years, in web-dev about 10 years. 
 I have experience in ERP system development, begin at full-stack PHP developer,
 then full-stack RoR + team lead(4 team members). I'm worked with administating UNIX systems, and data replication. I have expirience with external APIs(veriffme, OVH), payment services(Yandex.Money, Payu, Stripe), creating own RESTful APIs, working by service-oriented paradigm. I use Agile/Scrum. And I like SOLID.
 
-# 2018-2019 [MotionTribe](https://motiontribe.io) Brussels (remote) BackEnd RoR
+* 2018-2019 [MotionTribe](https://motiontribe.io) Brussels (remote) BackEnd RoR
 
-# 2016-2018 [RENTMANIA](http://rentmania.com) Moscow (remote), BackEnd RoR developer. PM on vacation time.
+* 2016-2018 [RENTMANIA](http://rentmania.com) Moscow (remote), BackEnd RoR developer. PM on vacation time.
 
-# 2015 Freelancer, RoR, PHP, PixelPerfect layout.
+* 2015 Freelancer, RoR, PHP, PixelPerfect layout.
 
-# 2008-2015 "Vash Vybor plus", Brest FullStack PHP + sysadmin, than FullStack RoR, team-lead.
+* 2008-2015 "Vash Vybor plus", Brest FullStack PHP + sysadmin, than FullStack RoR, team-lead.
 
 # Tech stack
 * Rails 3, 4, 5/Grape/Trailblazer
