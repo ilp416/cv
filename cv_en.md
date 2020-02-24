@@ -5,6 +5,19 @@ EN | [RU](cv_ru.md)
 # CV
 Levaneuski-Peravozchykau Ilya 05 Sep 1986 Brest, Belarus
 
+# From March 2019 [GuruWalk] Valencia, Spain (remote)
+GuruWalk — free walking tours service which works in 78 countries. It based on ShareTribe, and like as MotionTribe project was forked and grows up separately. My work is implementation of new features and test coverage of new and old code.
+*Task examples:*
+  * Modification tours sorting algorithm, by availability, booked seats count and rating. The task required build index as different table.
+  * Move endpoints from contrllers to APIs.
+  * Creating ViewModels/Serializers.
+  * Services for support list on localities(resolving uniqueness problem, removing orphans)
+  * Admin's page to resolving problems with wrong data from GoogleGeocoding)
+  * Autotranslations for fields filled in at only language.
+  * Export gurus to Intercom system
+  * Seats limits for non-premium tours
+  * Catching and fixing random occured fails on CI builds
+
 # 2018-2019 [MotionTribe] Brussels (remote)
 Service of renting photo-video cameras and accessories in Brussels and London. I worked as only fulltime developer (Backend Ruby), teamlead worked one day per week. The works was a challenge: The project was forked from (Sharetribe)[https://github.com/sharetribe/sharetribe] platform and was modified to not-updatable state, spec was abandoned. Even at current time you can see, Sharetribe was devoped by many persons which has different mind, and have used different ways to dev.
 As consequence you can find a call of sophisticated service , based on gracefull design pattern, and raw SQL-query in same fat controller. The first thing I did was updating Rails, enabling and fixing specs, setup CI/CD.
