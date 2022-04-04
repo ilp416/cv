@@ -5,6 +5,16 @@ EN | [RU](cv_ru.md)
 # CV
 Levaneuski-Peravozchykau Ilya 05 Sep 1986 Brest, Belarus
 
+# 2020-2022 [Presli] Brest, Belarus (part.remote)
+Presli - shop of women's clothing. There is a lot of garment factories in Brest. Presli aggregate production of these factories(about 100 brands) and sells in Ukraine/Belarus/Russia.
+*I worked with:*
+  * Integration with delivery services like NovaPoshta/CDEK/RussianPost
+  * Integration and creating andpoints for marketing tools like RetailRocket/Unisender/Esputnik
+  * Development different schemes to work with dealers and sellers
+  * Profiling and fixing performance issues
+  * System of promo codes and discounts
+  * Landing pages
+
 # From March 2019 [GuruWalk] Valencia, Spain (remote)
 GuruWalk — free walking tours service which works in 78 countries. It based on ShareTribe, and like as MotionTribe project was forked and grows up separately. My work is implementation of new features and test coverage of new and old code.
 *Task examples:*
