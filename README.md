@@ -4,8 +4,7 @@ EN | [RU](README_ru.md)
 
 # Experience
 RoR developer, in Rails — 7 years, in web-dev more than 14 years. 
-I have experience in ERP system development, began as full-stack PHP developer,
-then full-stack RoR + team lead(4 team members). I'm worked with administating UNIX systems, and data replication. I have expirience with external APIs(veriffme, OVH), payment services(Yandex.Money, Payu, Stripe), creating RESTful APIs, working by service-oriented paradigm. I use Agile/Scrum. I have a large experience with ShareTribe platform. I understand and like SOLID.
+I have experience in ERP system development. I have experience with administating UNIX systems and building development infrastructure. I create RESTful APIs and integrate external services (payment: Yandex.Money, Payu, Stripe, delivery: CDEK, Russian Post, NovaPoshta, marketing: RetailRocket/Unisender/Esputnik). I have experience with service-oriented paradigm, Agile/Scrum, SOLID.
 
 * 2020-2022 [Presli](https://presli.ru) Brest, Belarus, FullStack RoR dev
 
