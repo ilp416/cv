@@ -3,10 +3,12 @@ EN | [RU](README_ru.md)
 [CV](cv_en.md)
 
 # Experience
-RoR developer, in Rails — 7 years, in web-dev more than 14 years. 
+RoR developer, in Rails — 8 years, in web-dev more than 15 years. 
 I have experience in ERP system development. I have experience with administating UNIX systems and building development infrastructure. I create RESTful APIs and integrate external services (payment: Yandex.Money, Payu, Stripe, delivery: CDEK, Russian Post, NovaPoshta, marketing: RetailRocket/Unisender/Esputnik). I have experience with service-oriented paradigm, Agile/Scrum, SOLID.
 
-* 2020-2022 [Presli](https://presli.ru) Brest, Belarus, FullStack RoR dev
+* 2020-Now [Belodezhda.ru](https://belodezhda.ru) Brest, Belarus, FullStack RoR dev
+
+* 2020-2022 [mydog.show](https://mydog.show) My own service, FullStack RoR dev
 
 * 2019-2020 [GuruWalk](https://guruwalk.com) Valencia, Spain (remote) BackEnd RoR dev
 
