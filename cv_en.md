@@ -7,6 +7,7 @@ Levaneuski-Peravozchykau Ilya 05 Sep 1986 Brest, Belarus
 
 # 2020-Now [belodezhda.ru] Brest, Belarus (part.remote)
 Belodezhda.ru - shop of women's clothing. There is a lot of garment factories in Brest. Presli aggregate production of these factories(about 100 brands) and sells in Ukraine/Belarus/Russia.
+
 *I worked with:*
   * Integration with delivery services like NovaPoshta/CDEK/RussianPost
   * Integration and creating andpoints for marketing tools like RetailRocket/Unisender/Esputnik
@@ -16,16 +17,19 @@ Belodezhda.ru - shop of women's clothing. There is a lot of garment factories in
   * Landing pages
 
 # 2020-2022 [myDog.show] Own little project
-mydog.show - service of registration on dog shows. More complex tax for dog clubs is formation event catalog, because it has complex rules, and most of clubs made it manually. But more people book dogs on event at last moment, so it was a problem to made a catalog after last dog is registered and be on time to print in printing house before event starts. With my service it performed in few minutes and service cover a lot of other club tasks.
+mydog.show - service of registration on dog shows. More complex tasks for dog clubs is formation event catalog, because it has complex rules, and most of clubs made it manually. But more people book dogs on event at last moment, so it was a problem to made a catalog after last dog is registered and be on time to print in printing house before event starts. With my service it performed in few minutes and service cover a lot of other club tasks.
+
 *features*
   * Generation *.docx catalogs
   * Generation printable diploms and description cards
   * Data parsing from google forms to DB
   * Online catalogs with fast search on the page
+
 *Tech stack:* Rails 6, postresql, react, Ubuntu-server at Amazon, Gitlab, Rspec, Sidekiq  
 
 # From March 2019 [GuruWalk] Valencia, Spain (remote)
 GuruWalk — free walking tours service which works in 78 countries. It based on ShareTribe, and like as MotionTribe project was forked and grows up separately. My work is implementation of new features and test coverage of new and old code.
+
 *Task examples:*
   * Modification tours sorting algorithm, by availability, booked seats count and rating. The task required build index as different table.
   * Move endpoints from contrllers to APIs.
